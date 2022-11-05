@@ -1,4 +1,4 @@
 Google Sheet : https://docs.google.com/spreadsheets/d/1DibXCzg3S11KKzYmicqx0JSqx6JfBrsz_bhRNV1vAkc/edit?usp=sharing
 Colab Bisection Python : https://colab.research.google.com/drive/1GPXrMHECfzsxPcXBO3Gh597Zb89M8RY1?usp=sharing
-Github Bisection Python Code : 
+Github Bisection Python Code : https://github.com/akarabubakr/Numberical/blob/main/bisection.ipynb
 
